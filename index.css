@@ -9,6 +9,7 @@ body{
     text-align: center;
     text-decoration: underline;
     text-transform: uppercase;
+    background: linear-gradient(to bottom left, #33ccff 43%, #ff99cc 100%);
 }
 .contact-us-heading{
     color: aqua;
@@ -35,4 +36,12 @@ body{
 .twitter-image{
     height: 350px;
     width: 500px;
+}
+.Grocery-paragraph{
+    font-size: 10px;
+}
+.grocery-image{
+    padding-bottom: 25px;
+    height: 250px;
+    width: 400px;
 }
